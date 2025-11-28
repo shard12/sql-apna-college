@@ -83,6 +83,3 @@ sql-apna-college/
 ## ⭐ Support
 
 If you find this repository helpful, consider giving it a **star** to support future SQL projects.
-
-✔ A **logo** for the repository
-✔ A more advanced README with badges and workflow sections
